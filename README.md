@@ -2,7 +2,7 @@
 Me chamo Elir mas pode me chamar de Elirweb.
 
 Tecnologias que eu trabalho
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=ElirWeb%20EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=C#&message=ElirWeb%20EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <! --
 **elirweb/elirweb** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
