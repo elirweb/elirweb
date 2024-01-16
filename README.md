@@ -17,7 +17,7 @@ Devops: CI e CD
 
 <br />
 
-Versão Inglês: <br /><br />
+Versão Inglês: <br />
 ## Hello everyone 👋
 My name is Elir but you can call me Elirweb.
 
