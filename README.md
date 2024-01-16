@@ -6,11 +6,11 @@ Em 2009 inicie a faculdade de Sistemas da informação e em seguida fiz varios c
 
 Ferramentas - Tecnologias que eu trabalho<br />
 FrontEnd: XHTML,HTML 5, Javascript, Jquery,Angular Js, Angular2 (versões atuais do framework), css, Ajax,Node js,typescript,Ionic,Mocha js,Json,Bootstrap.
-<br />
+<br /><br />
 BackEnd:C#,Linq To Sql,WCF,Simple Inject ,Aspnet Core,Aspnet Full Framework,WebForms,Sql Server, T-SQL,Mongo DB,Redis,Swagger,Xunit,Selenium, Rabbitmq,Dapper,Entity Framework Core,Clean Code,DDD,TDD,Design Pattern, Refatoração de código,Arquitetura limpa,XML, Microsoft Azure, Docker, Microsservice. Api Gateway, Sensedia e AWS.
-<br />
+<br /><br />
 Controle Versão: GitHub,Gitlab, AzureDevops.
-<br />
+<br /><br />
 Metodologias Ágeis: SCRUM.
-<br />
+<br /><br />
 Devops: CI e CD
