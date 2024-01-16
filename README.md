@@ -15,7 +15,7 @@ Metodologias Ágeis: SCRUM.
 <br /><br />
 Devops: CI e CD
 
-<br /> <br />
+<br />
 
 Versão Inglês: <br /><br />
 ## Hello everyone 👋
