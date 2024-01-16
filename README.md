@@ -14,3 +14,25 @@ Controle Versão: GitHub,Gitlab, AzureDevops.
 Metodologias Ágeis: SCRUM.
 <br /><br />
 Devops: CI e CD
+
+<br /> <br /><br />
+
+Versão Inglês: <br /><br />
+## Hello everyone 👋
+My name is Elir but you can call me Elirweb.
+
+I am a software developer and I am currently adding to my study stacks. I started my career in 2007 with the PHP language and the front end html, css.
+In 2009, I started studying Information Systems and then took several courses and obtained certifications in the area. and in 2023/2024 I am doing a postgraduate degree in Software Architecture
+
+Tools - Technologies that I work with<br />
+FrontEnd: XHTML,HTML 5, Javascript, Jquery,Angular Js, Angular2 (current framework versions), css, Ajax,Node js,typescript,Ionic,Mocha js,Json,Bootstrap.
+<br /><br />
+BackEnd:C#,Linq To Sql,WCF,Simple Inject,Aspnet Core,Aspnet Full Framework,WebForms,Sql Server, T-SQL,Mongo DB,Redis,Swagger,Xunit,Selenium, Rabbitmq,Dapper,Entity Framework Core,Clean Code ,DDD,TDD,Design Pattern, Code refactoring,Clean architecture,XML, Microsoft Azure, Docker, Microservice. Api Gateway, Sensedia and AWS.
+<br /><br />
+Version Control: GitHub, Gitlab, AzureDevops.
+<br /><br />
+Agile Methodologies: SCRUM.
+<br /><br />
+Devops: CI and CD
+
+
