@@ -1,8 +1,8 @@
 ## Olá pessoal 👋
 Me chamo Elir mas pode me chamar de Elirweb.
 
-Sou um Desenvolvedor de software e atualmente estou acrescentando nas minhas stacks de estudos inicie minha carreira em 2007 com a linguagem PHP e no front end html,css. 
-Em 2009 inicie a faculdade de Sistemas da informação e em seguida fiz varios cursos e tirei certificações na área. e em 2023/2024 estou fazendo pós de Arquitetura de Software
+Sou um Desenvolvedor de software tenho aproximadamente 12 anos de carreira, iniciei em 2007 com a linguagem PHP e no front end html,css e javascript, meu primeiro projeto foi um site para uma cooperativa e em diante tomei gosto por desenvolvimento web. 
+Em 2009 inicie a faculdade de Sistemas da informação na faculdade: Carlos Drummond de Andrade e em seguida fiz vários cursos, tirei certificações na área tais: AZ-900,DP-900, SC-900 e 70-480. E no ano de 2024 estou finalizando a Pós de Arquitetura de Software na FIAP. Proximos passos da minha carreira é ser Arquiteto de Software e praticar o idiomas: Inglês e Espanhol.
 
 Ferramentas - Tecnologias que eu trabalho<br />
 FrontEnd: XHTML,HTML 5, Javascript, Jquery,Angular Js, Angular2 (versões atuais do framework), css, Ajax,Node js,typescript,Ionic,Mocha js,Json,Bootstrap.
