@@ -21,8 +21,8 @@ Versão Inglês: <br />
 ## Hello everyone 👋
 My name is Elir but you can call me Elirweb.
 
-I am a software developer and I am currently adding to my study stacks. I started my career in 2007 with the PHP language and the front end html, css.
-In 2009, I started studying Information Systems and then took several courses and obtained certifications in the area. and in 2023/2024 I am doing a postgraduate degree in Software Architecture
+I am a software developer with approximately 12 years of career, I started in 2007 with the PHP language and the front end html, css and javascript, my first project was a website for a cooperative and from then on I became interested in web development.
+In 2009, I started studying Information Systems at the university: Carlos Drummond de Andrade and then I took several courses, obtaining certifications in the area such as: AZ-900, DP-900, SC-900 and 70-480. And in the year 2024 I am finishing the Software Architecture Postgraduate course at FIAP. The next steps in my career are to be a Software Architect and practice the languages: English and Spanish.
 
 Tools - Technologies that I work with<br />
 FrontEnd: XHTML,HTML 5, Javascript, Jquery,Angular Js, Angular2 (current framework versions), css, Ajax,Node js,typescript,Ionic,Mocha js,Json,Bootstrap.
